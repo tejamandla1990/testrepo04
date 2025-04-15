@@ -2,3 +2,4 @@ this is first line
 this is second line
 ignore this line
 this is fourth line
+ignore this line as well
